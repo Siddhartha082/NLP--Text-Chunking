@@ -1,5 +1,7 @@
 # text_chunking
 
+#Ref - https://towardsdatascience.com/a-visual-exploration-of-semantic-text-chunking-6bb46f728e30
+
 Exploration of semantic chunking and chunk classification. This package allows 
 semantic chunking of text and produces visuals that allow us to how and why the 
 chunks are being made. 
